@@ -6,6 +6,8 @@ No Flash, No Java, No Websocket, No Bullshit.
 
 This is a very lightweight Speedtest implemented in Javascript, using XMLHttpRequest and Web Workers.
 
+[official peoject](https://github.com/adolfintel/speedtest/tree/docker)
+
 ## Try it
 [Take a Speedtest](http://speedtest.fdossena.com)
 
